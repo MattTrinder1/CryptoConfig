@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "frankfurt01.aeon.hashvault.pro:5555", "wallet_address" : "WmtK9TQ6yd2ZWZDAkRsebc2ppzUq2Wuo9XRRjHMH2fvqM3ARVqk3styJ6AavJFcpJFPFtxRGAqGFoJMZGJ6YYzQ61TYGfpykX.263f49bbd8d04ffd91025fb8539961316224013c36b0460ca221fce67dee90f4", "pool_password" : "instance10-us-east1-b:matttrinder1@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "frankfurt01.aeon.hashvault.pro:5555", "wallet_address" : "WmsNdSjvzdWic4e4qnoMrs4nv5eJFXvQEdYC9c9St8iMC7WQRK6PBq6TjyN5W1igkVUJkziEZEqTmDUkhL2Huj9C1Nse2o736", "pool_password" : "instance10-us-east1-b:matttrinder1@gmail.com", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
